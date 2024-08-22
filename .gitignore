@@ -4,6 +4,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+#git merge main --allow-unrelated-histories
 
 dist-ssr
 *.local
